@@ -107,5 +107,5 @@ Add task categories or deadlines
 
 Cloud sync using APIs or databases
 
-📄 License
+# 📄 License
 This project is open-source under the MIT License. Feel free to use and modify it as you wish.
