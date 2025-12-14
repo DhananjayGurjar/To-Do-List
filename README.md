@@ -1,7 +1,7 @@
-📝 To-Do List Web App
+#📝 To-Do List Web App
 A simple and elegant To-Do List application built using HTML, CSS, and JavaScript. It allows users to add, toggle (complete), and delete tasks with persistent storage using the browser’s Local Storage.
 
-📖 Table of Contents
+#📖 Table of Contents
 Introduction
 
 Features
@@ -20,10 +20,10 @@ Future Improvements
 
 License
 
-🧩 Introduction
+# 🧩 Introduction
 This is a browser-based To-Do List app that helps you manage daily tasks. All data is stored in your browser’s localStorage, so tasks persist even after refreshing or closing the page.
 
-🌟 Features
+# 🌟 Features
 ➕ Add new tasks easily
 
 ✅ Mark tasks as completed
@@ -34,7 +34,7 @@ This is a browser-based To-Do List app that helps you manage daily tasks. All da
 
 🎨 Clean, responsive UI design
 
-📁 Project Structure
+# 📁 Project Structure
 To-Do-List/
 │
 ├── index.html # Main HTML structure
@@ -42,7 +42,7 @@ To-Do-List/
 ├── style.css # Styles for the interface
 └── README.md # Project documentation\
 
-⚙️ Installation
+# ⚙️ Installation
 Clone or download this repository:
 
 git clone https://github.com/your-username/todo-list.git
@@ -54,7 +54,7 @@ Open the index.html file directly in your browser:
 open index.html
 (No server setup required — everything runs locally!)
 
-🚀 Usage
+# 🚀 Usage
 Type a task in the input field.
 
 Click “Add Task” to add it to the list.
@@ -65,7 +65,7 @@ Click the “Delete” button to remove a task.
 
 Tasks are automatically saved and will reappear on page reload.
 
-🧠 Code Overview
+# 🧠 Code Overview
 index.html
 
 Defines the structure of the app:
@@ -98,7 +98,7 @@ renderTasks(): Renders the list dynamically from local storage.
 
 saveTasks() / getTasks(): Handle data persistence.
 
-🛠️ Future Improvements
+# 🛠️ Future Improvements
 Add edit functionality for tasks
 
 Filter tasks (All / Completed / Pending)
